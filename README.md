@@ -60,6 +60,7 @@ To run this project in Daytona, you'll need to have Daytona installed. Follow th
     SUPABASE_URL=your_supabase_url
     SUPABASE_KEY=your_supabase_api_key
     SUPABASE_DB_URL=your_supabase_db_url
+    ENVIRONMENT="production"
     ```
 
 ## Configuration
